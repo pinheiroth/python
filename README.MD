@@ -52,9 +52,6 @@ frequency = np.interp(intensity, [0, 1], [110, 160])
 Filtrar Som
 Para suavizar ruídos ou ajustar o som, use o filtro passa-baixa incluído no código.
 
-📄 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
-
 ✨ Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar um pull request.
 
